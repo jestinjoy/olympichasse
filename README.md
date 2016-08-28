@@ -5,5 +5,7 @@ This R program generates hasse diagram form the medal tally csv file. For workin
 
 The following figure shows the hasse for 13 countries
 
-![hasse](https://github.com/jestinjoy/olympichasse/blob/master/hasse.png) 
+![hasse](https://github.com/jestinjoy/olympichasse/blob/master/hasse.png)
+
+Plotting is made using R package [hasseDiagram](https://cran.r-project.org/web/packages/hasseDiagram/index.html) which inturn depends on [Rgraphviz](http://bioconductor.org/packages/release/bioc/html/Rgraphviz.html)
 
